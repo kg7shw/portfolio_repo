@@ -1,0 +1,65 @@
+$page-color: #fdf4dc;
+
+body {
+  background-color: $page-color;
+}
+
+.header {
+  .header-section {
+    .nav {
+      .link-list {
+        .list-item {
+          .item-link {
+          }
+        }
+      }
+    }
+  }
+}
+
+.main {
+  .main-hero-section {
+    .hero-div-container {
+      .hero-title-text {
+      }
+      .hero-img {
+      }
+
+      .hero-p-text {
+      }
+    }
+  }
+
+  .main-about-me-section {
+    .main-about-me-container {
+      .skills-title-text {
+      }
+      .skills-img {
+      }
+      .skills-list {
+        .skills {
+        }
+        .skills-title-subtext {
+        }
+        .skills-p-text {
+        }
+        .skills-btn-cta {
+        }
+      }
+    }
+  }
+
+  .main-education-section {
+    .education-title-text {
+    }
+  }
+
+  .main-projects-section {
+  }
+
+  .main-contact-section {
+  }
+}
+
+.footer {
+}

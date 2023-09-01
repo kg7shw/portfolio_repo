@@ -1,0 +1,99 @@
+$-base-background-color: #fdf4dc;
+
+.header {
+  .header-section {
+    .nav {
+      .link-list {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        text-decoration: none;
+        list-style: none;
+
+        .list-item {
+          .item-link {
+          }
+        }
+      }
+    }
+  }
+}
+
+.main {
+  .main-hero-section {
+    .hero-div-container {
+      .hero-title-text {
+      }
+      .hero-img {
+      }
+
+      .hero-p-text {
+      }
+    }
+  }
+
+  .main-about-me-section {
+    .main-about-me-container {
+      .skills-title-text {
+      }
+      .skills-img {
+      }
+      .skills-list {
+        .skills {
+        }
+        .skills-title-subtext {
+        }
+        .skills-p-text {
+        }
+        .skills-btn-cta {
+        }
+      }
+    }
+  }
+
+  .main-education-section {
+    .main-education-container {
+      .education-title-text {
+        .education-img {
+          .education-p-text {
+          }
+        }
+      }
+    }
+  }
+
+  .main-projects-section {
+    .main-projects-container {
+      .projects-list {
+        .project {
+        }
+      }
+    }
+  }
+
+  .main-contact-section {
+    .main-contact-container {
+      .contact-form {
+      }
+    }
+  }
+}
+
+.footer {
+  .footer-section {
+    .footer-copyright-container {
+      .title-text {
+      }
+      .copyright-text {
+      }
+    }
+    .footer-nav-links-container {
+      .link-list {
+        .list-item {
+          .item-link {
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,8 +1,4 @@
-$page-color: #fdf4dc;
-
-body {
-  background-color: $page-color;
-}
+$-base-background-color: #fdf4dc;
 
 .header {
   .header-section {
@@ -50,16 +46,48 @@ body {
   }
 
   .main-education-section {
-    .education-title-text {
+    .main-education-container {
+      .education-title-text {
+        .education-img {
+          .education-p-text {
+          }
+        }
+      }
     }
   }
 
   .main-projects-section {
+    .main-projects-container {
+      .projects-list {
+        .project {
+        }
+      }
+    }
   }
 
   .main-contact-section {
+    .main-contact-container {
+      .contact-form {
+      }
+    }
   }
 }
 
 .footer {
+  .footer-section {
+    .footer-copyright-container {
+      .title-text {
+      }
+      .copyright-text {
+      }
+    }
+    .footer-nav-links-container {
+      .link-list {
+        .list-item {
+          .item-link {
+          }
+        }
+      }
+    }
+  }
 }
